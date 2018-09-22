@@ -4,7 +4,7 @@ This is the repository to my hardware of the motorized Air Raid Sirene model fro
 
 [**SEE THIS THING IN ACTION!**](https://twitter.com/Gurkengewuerz/status/1040680115078922241)
 
-![raid_druck_mit_platine](/img/raid_druck_mit_platine.jpg | width=850)
+<img src="/img/raid_druck_mit_platine.jpg" alt="raid_druck_mit_platine" width="850" />
 
 
 
