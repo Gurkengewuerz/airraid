@@ -16,9 +16,9 @@ The schematic is pretty simple. The ESP8266 is powered by the same power supply 
 
 
 
-## PCB Desgine
+## PCB Desgin
 
-There is no PCB desgine because i just used a small perfboard.
+There is no PCB desgin because i just used a small perfboard.
 
 ### !!! ATTENTION !!!
 
